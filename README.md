@@ -1,12 +1,10 @@
 # 烟花模拟器
 
-注意：此源码是基于 [XgpNwb](https://codepen.io/MillerTime/pen/XgpNwb) 的二次修改
+注意：此源码是NianBroken基于 [XgpNwb](https://codepen.io/MillerTime/pen/XgpNwb) 的二次修改，作翻译处理以及其他优化。
 
-我仅作翻译处理以及其他优化
+这里我把缩放效果修改了，电脑和手机默认缩放均修改为50%，感觉这样烟花看起来更加真实，观赏效果更佳！
 
-Demo 1：https://nianbroken.github.io/Firework_Simulator/
-
-Demo 2：https://fireworks.nianbroken.top/
+Demo：https://fireworks.yangzhiblog.com
 
 ------
 
@@ -15,5 +13,3 @@ Demo 2：https://fireworks.nianbroken.top/
 ![静态图](https://cdn.jsdelivr.net/gh/NianBroken/Firework_Simulator/Image_Preview.png)
 
 ------
-
-若有翻译错译或其他问题，请在`Issues`提交。
