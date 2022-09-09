@@ -34,7 +34,7 @@ let simSpeed = 1;
 function getDefaultScaleFactor() {
 	if (IS_MOBILE) return 0.5;
 	if (IS_HEADER) return 0.75;
-	return 1;
+	return 0.5;
 }
 
 // Width/height values that take scale into account.
